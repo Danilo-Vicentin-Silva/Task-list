@@ -1,0 +1,10 @@
+.container {
+    color: white;
+    height: auto;
+    max-width: 500px;
+    padding: 30px;
+    margin: 30px auto;
+    border: 2px solid chartreuse;
+    border-radius: 10px;
+    overflow: auto;
+}
