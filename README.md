@@ -1,3 +1,3 @@
-## TASK LIST (LISTA DE TAREFAS)
+# TASK LIST (LISTA DE TAREFAS)
 
-Feito em ReactJS
+Feito em ReactJS, para acessá-lo, basta clicar [aqui](https://danilotasklist.netlify.app/)
