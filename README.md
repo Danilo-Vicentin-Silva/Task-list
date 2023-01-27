@@ -1,3 +1,4 @@
 # TASK LIST (LISTA DE TAREFAS)
+Lista de tarefas responsiva, criada para fins didáticos, foi totalmente desenvolvido em ReactJS
 
-Feito em ReactJS, para acessá-lo, basta clicar [aqui](https://danilotasklist.netlify.app/)
+[Acesse](https://danilotasklist.netlify.app/)
